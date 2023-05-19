@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "Jóias Valéria - Mais Beleza em Você!",
     "link": "/promotion",
-    "background": "#000000"
+    "background": "#daa520"
   },
   "contacts_stripe": {
     "pages": [
@@ -10,7 +10,9 @@
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
       },
-      {}
+      {
+        "title": "Atendimento Exclusivo Via Whatsapp"
+      }
     ],
     "phone_wpp": true,
     "socials": true
